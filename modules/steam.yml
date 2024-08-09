@@ -1,0 +1,5 @@
+name: install-steam
+type: apt
+source:
+  packages:
+    - steam

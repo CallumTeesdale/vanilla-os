@@ -25,7 +25,6 @@ stages:
       - modules/steam.yaml
       - modules/rust.yaml
       - modules/neovim.yaml
-      - modules/personal-config.yaml
 
   - name: set-image-name-abroot
     type: includes
